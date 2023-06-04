@@ -6,7 +6,7 @@ A chrome extension for accessing advanced band settings for B312-939 Huawei Mode
 
 ### App Preview
 
-![App Preview](https://imgur.com/a/GB1GnJl)
+![App Preview](https://i.imgur.com/qQ3WTaR.jpg)
 
 ---
 

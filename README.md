@@ -1,6 +1,14 @@
 # Advanced Band
 
+---
+
 A chrome extension for accessing advanced band settings for B312-939 Huawei Modem.
+
+### App Preview
+
+![App Preview](https://imgur.com/a/GB1GnJl)
+
+---
 
 ## Installation
 
@@ -17,5 +25,5 @@ A chrome extension for accessing advanced band settings for B312-939 Huawei Mode
 
 ## Disclaimer
 
-This does not in any way gives you access to admin user. You will still use you regular `user` account to access the app's functionality.
+This does not in any way gives you access to `admin` account. You will still use you regular `user` account to access the app's functionality.
 This was based from Chris Lancosay's B312-939 Admin Tool. But for some reasons, I encountered bugs using that extension. So here's the fix.

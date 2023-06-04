@@ -1,10 +1,6 @@
 # Advanced Band
 
----
-
 A chrome extension for accessing advanced band settings for B312-939 Huawei Modem.
-
-### App Preview
 
 ![App Preview](https://i.imgur.com/qQ3WTaR.jpg)
 
